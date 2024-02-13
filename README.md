@@ -1,8 +1,3 @@
-# React + Vite
+# PATpa;
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This project is the brainchild of my brother James, who has tasked me with creating something that would allow the user to upload a .csv, that returns a filtered version only containing what is useful to them. _What is useful to the user_ is something that hasn't yet been passed onto me, along with the specifics of the project, but this is probably a good place to start.
